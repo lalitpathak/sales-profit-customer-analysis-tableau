@@ -17,8 +17,13 @@ The project combines data visualization, dashboard design principles, and busine
 
 🖼 Dashboard Preview
 
+<h2>📈 Perormance overview</h2>
 
+<img src="assets/Performance_Overview.png" width="1000">
 
+<h2>📈 Order Details </h2>
+
+<img src="assets/Order_details.png" width="1000">
 
 
 📌 Dashboard Features
@@ -108,6 +113,31 @@ Executive-friendly layout
 Balanced color composition
 
 Special emphasis was placed on blending business intelligence with modern dashboard design principles.
+
+📁 Repository Structure
+
+        sales-profit-customer-analysis-tableau/
+        │
+        ├── README.md
+        ├── assets/
+        │   ├── dashboard-overview.png
+        │   ├── sales-by-state.png
+        │   └── dashboard-preview.gif
+        │
+        ├── data/
+        │   ├── Sample_Superstore.csv
+        │   ├── Sample_Superstore_Returns.csv
+        │   └── Sample_Superstore_People.csv
+        │
+        ├── dashboard/
+        │   ├── Performance_Dashboard.twb
+        │
+        ├── docs/
+        │   ├── dashboard-design-notes.md
+        │   ├── business-problem.md
+        │   └── kpi-definitions.md
+        │
+        └── LICENSE
 
 📂 How to Use
 
